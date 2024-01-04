@@ -1,0 +1,13 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define a link with the 'a' element -->
+  <a href="http://www.example.com" target="_blank" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Create a simple rectangle as the clickable area -->
+    <rect width="100%" height="100%" fill="lightblue" />
+
+    <!-- Add text to indicate the link -->
+    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="black" font-size="12">
+      Click me!
+    </text>
+  </a>
+</svg>
+
